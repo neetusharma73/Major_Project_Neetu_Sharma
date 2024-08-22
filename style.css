@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kaushan+Script&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+/*
+font-family: "Kaushan Script", cursive;
+font-family: "Dancing Script", cursive;
+
+ font-family: "Bitter", serif;
+ font-family: "Noto Serif", serif;
+ 
+  font-family: "Playfair Display", serif;
+ 
+
+*/
+
+.mynav {
+  background-image: linear-gradient(
+    to right,
+    rgba(17, 156, 40, 0.517),
+    rgb(58, 107, 52),
+    rgb(65, 122, 89)
+  );
+  border-radius: 0px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: "Playfair Display", serif;
+  justify-content: baseline;
+}
+
+.navbar-nav li a {
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+#heading {
+  font-family: "Playfair Display", serif;
+}
+
+.slider {
+  height: 80vh;
+  margin-bottom: 20px;
+}
+.carousel-item img {
+  width: 100%;
+  height: 80vh;
+}
+/* .txtjst {
+  text-align: center;
+} */
+
+.card img {
+  width: 100%;
+  height: 150px;
+}
